@@ -1,3 +1,0 @@
-# DeployTest
-test
-test1
